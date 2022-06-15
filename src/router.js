@@ -8,7 +8,6 @@ import { TouchableOpacity } from "react-native";
 import { Feather } from "@expo/vector-icons";
 
 const Stack = createNativeStackNavigator();
-
 function Routes() {
   return (
     <NavigationContainer>
